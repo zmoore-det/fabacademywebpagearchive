@@ -40,6 +40,7 @@
 
 	p {
 		line-height: 2em;
+		font-size: 1.25em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -484,7 +485,7 @@
 	.wrapper.style1 {
 		padding-top: 10em;
 		padding-bottom: 2em;
-		background: url(../images/bg.jpg) no-repeat center top;
+		background: url(../images/image10.png) no-repeat center top;
 		background-size: cover;
 		background-attachment: fixed;
 		-webkit-backface-visibility: hidden;
@@ -622,6 +623,7 @@
 /* Box */
 
 	.box {
+		
 		padding: 3em 2em;
 		background: #FFF;
 		text-align: center;
